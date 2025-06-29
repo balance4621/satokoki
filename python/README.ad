@@ -1,0 +1,9 @@
+# Python Code for Noto Earthquake Aftershock Analysis
+
+このフォルダには、令和6年能登半島地震の余震データ解析において、波形データの整理、抽出といった準備段階で用いたPythonスクリプトが含まれています。
+
+## 目的
+* 解析に必要なデータの自動的な抽出と整形。
+
+## 使用技術
+* Python
